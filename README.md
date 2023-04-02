@@ -28,14 +28,6 @@ set LT_ACCESS_KEY="YOUR ACCESS KEY"`
 ### Running Tests
 
 ```
-To run single test on Lambdatest
-    $ npm run single
-
-To run parallel test on Lambdatest
-    $ npm run parallel
-    
-To run On-Prem ChromeDriver
-    $ npm run onprem    
 
 To run App Automation Test
     $ npm run app 
