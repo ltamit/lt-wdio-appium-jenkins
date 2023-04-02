@@ -4,9 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "onprem": "npx wdio run ./wdio.conf.js",
-    "parallel": "npx wdio run ./wdio.confparallel.js",
-    "single": "npx wdio run ./wdio.confsingle.js",
     "app": "npx wdio run ./wdio.confApp.js"
   },
   "keywords": [],
@@ -21,7 +18,6 @@
     "@wdio/mocha-framework": "^7.16.14",
     "@wdio/selenium-standalone-service": "^7.20.8",
     "@wdio/spec-reporter": "^7.16.14",
-    "chromedriver": "^97.0.4",
     "wdio-chromedriver-service": "^7.2.6"
   }
 }
