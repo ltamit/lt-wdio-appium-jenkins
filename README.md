@@ -10,9 +10,7 @@
 2. Project Dependencies
     * checkout the repository
     * Check that packages are available
-    ```
-    $ cd WebdriverIO_LT
-    ```
+  
     **LambdaTest Authentication Credentials:** Make sure you have your LambdaTest credentials with you to run test automation scripts with Jest on LambdaTest Selenium Grid. You can obtain these credentials from the [LambdaTest Automation Dashboard](https://automation.lambdatest.com/) or through [LambdaTest Profile](https://accounts.lambdatest.com/detail/profile).
 
 Set LambdaTest Username and Access Key in environment variables.
